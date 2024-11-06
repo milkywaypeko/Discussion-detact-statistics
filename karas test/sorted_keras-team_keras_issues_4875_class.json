@@ -1,0 +1,2984 @@
+[
+    {
+        "issueObjectAnchor": "IssueSPTOText0",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText1",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText2",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText3",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText4",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText5",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText6",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText7",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText8",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText9",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText10",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText11",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText12",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText13",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText14",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText15",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText16",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText17",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText18",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText19",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText20",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText21",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText22",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText23",
+        "textType": {
+            "result": "Contribution and Commitment"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText24",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText25",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText26",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText27",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText28",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText29",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText30",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText31",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText32",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText33",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText34",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText35",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText36",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText37",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText38",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText39",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText40",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText41",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText42",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText43",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText44",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText45",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText46",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText47",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText48",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText49",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText50",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText51",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText52",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText53",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText54",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText55",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText56",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText57",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText58",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText59",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText60",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText61",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText62",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText63",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText64",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText65",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText66",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText67",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText68",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText69",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText70",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText71",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText72",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText73",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText74",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText75",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText76",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText77",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText78",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText79",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText80",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText81",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText82",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText83",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText84",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText85",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText86",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText87",
+        "textType": {
+            "result": "Contribution and Commitment"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText88",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText89",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText90",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText91",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText92",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText93",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText94",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText95",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText96",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText97",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText98",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText99",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText100",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText101",
+        "textType": {
+            "result": "Contribution and Commitment"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText102",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText103",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText104",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText105",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText106",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText107",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText108",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText109",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText110",
+        "textType": {
+            "result": "Contribution and Commitment"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText111",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText112",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText113",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText114",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText115",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText116",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText117",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText118",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText119",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText120",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText121",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText122",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText123",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText124",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText125",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText126",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText127",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText128",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText129",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText130",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText131",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText132",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText133",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText134",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText135",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText136",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText137",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText138",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText139",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText140",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText141",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText142",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText143",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText144",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText145",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText146",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText147",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText148",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText149",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText150",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText151",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText152",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText153",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText154",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText155",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText156",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText157",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText158",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText159",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText160",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText161",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText162",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText163",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText164",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText165",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText166",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText167",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText168",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText169",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText170",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText171",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText172",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText173",
+        "textType": {
+            "result": "Contribution and Commitment"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText174",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText175",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText176",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText177",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText178",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText179",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText180",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText181",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText182",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText183",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText184",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText185",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText186",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText187",
+        "textType": {
+            "result": "Expected Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText188",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText189",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText190",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText191",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText192",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText193",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText194",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText195",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText196",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText197",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText198",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText199",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText200",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText201",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText202",
+        "textType": {
+            "result": "Contribution and Commitment"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText203",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText204",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText205",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText206",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText207",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText208",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText209",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText210",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText211",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText212",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText213",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText214",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText215",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText216",
+        "textType": {
+            "result": "Expected Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText217",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText218",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText219",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText220",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText221",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText222",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText223",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText224",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText225",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText226",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText227",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText228",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText229",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText230",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText231",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText232",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText233",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText234",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText235",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText236",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText237",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText238",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText239",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText240",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText241",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText242",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText243",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText244",
+        "textType": {
+            "result": "Expected Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText245",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText246",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText247",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText248",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText249",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText250",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText251",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText252",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText253",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText254",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText255",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText256",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText257",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText258",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText259",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText260",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText261",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText262",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText263",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText264",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText265",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText266",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText267",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText268",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText269",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText270",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText271",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText272",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText273",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText274",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText275",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText276",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText277",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText278",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText279",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText280",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText281",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText282",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText283",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText284",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText285",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText286",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText287",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText288",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText289",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText290",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText291",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText292",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText293",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText294",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText295",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText296",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText297",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText298",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText299",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText300",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText301",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText302",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText303",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText304",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText305",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText306",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText307",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText308",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText309",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText310",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText311",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText312",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText313",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText314",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText315",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText316",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText317",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText318",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText319",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText320",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText321",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText322",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText323",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText324",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText325",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText326",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText327",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText328",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText329",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText330",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText331",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText332",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText333",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText334",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText335",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText336",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText337",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText338",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText339",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText340",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText341",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText342",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText343",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText344",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText345",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText346",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText347",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText348",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText349",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText350",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText351",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText352",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText353",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText354",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText355",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText356",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText357",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText358",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText359",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText360",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText361",
+        "textType": {
+            "result": "Expected Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText362",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText363",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText364",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText365",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText366",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText367",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText368",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText369",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText370",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText371",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText372",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText373",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText374",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText375",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText376",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText377",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText378",
+        "textType": {
+            "result": "Contribution and Commitment"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText379",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText380",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText381",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText382",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText383",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText384",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText385",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText386",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText387",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText388",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText389",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText390",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText391",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText392",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText393",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText394",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText395",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText396",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText397",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText398",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText399",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText400",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText401",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText402",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText403",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText404",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText405",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText406",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText407",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText408",
+        "textType": {
+            "result": "Potential New Issues and Requests"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText409",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText410",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText411",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText412",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText413",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText414",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText415",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText416",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText417",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText418",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText419",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText420",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText421",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText422",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText423",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText424",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText425",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText426",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText427",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText428",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText429",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText430",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText431",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText432",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText433",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText434",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText435",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText436",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText437",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText438",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText439",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText440",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText441",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText442",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText443",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText444",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText445",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText446",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText447",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText448",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText449",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText450",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText451",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText452",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText453",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText454",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText455",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText456",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText457",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText458",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText459",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText460",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText461",
+        "textType": {
+            "result": "Action on Issue"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText462",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText463",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText464",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText465",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText466",
+        "textType": {
+            "result": "Motivation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText467",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText468",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText469",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText470",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText471",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText472",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText473",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText474",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText475",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText476",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText477",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText478",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText479",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText480",
+        "textType": {
+            "result": "Task Progress"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText481",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText482",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText483",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText484",
+        "textType": {
+            "result": "Action on Issue"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText485",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText486",
+        "textType": {
+            "result": "Investigation and Exploration"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText487",
+        "textType": {
+            "result": "Observed Bug Behaviour"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText488",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText489",
+        "textType": {
+            "result": "Solution Usage"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText490",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText491",
+        "textType": {
+            "result": "Workarounds"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText492",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText493",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText494",
+        "textType": {
+            "result": "Social Conversation"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText495",
+        "textType": {
+            "result": "Bug Reproduction"
+        }
+    },
+    {
+        "issueObjectAnchor": "IssueSPTOText496",
+        "textType": {
+            "result": "Solution Discussion"
+        }
+    }
+]
